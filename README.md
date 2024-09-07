@@ -1,5 +1,7 @@
 # 如何运行
-本程序使用`streamlit`作为webui，运行`webui.bat`即可打开浏览器界面。
+本程序使用`streamlit`作为webui，你需要`pip install streamlit`，然后在`powershell`或`ide`的控制台执行`streamlit run main.py`即可运行
+
+如果你使用`pycharm`，则可以新建一个虚拟环境，安装`streamlit`之后即可点击`webui.bat`运行
 
 # 程序介绍
 北邮数据结构小学期作业-地铁问题
